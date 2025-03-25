@@ -1,8 +1,8 @@
 theme: dark
-color_snake: "#39FF14"  # bright neon green
+color_snake: "#00ff00"
 color_dots:
-  - "#0a0a0a"
-  - "#1a1a1a"
-  - "#262626"
-  - "#00b140"
-  - "#39ff14"
+  - "#000000"  # background grid (black)
+  - "#111111"
+  - "#222222"
+  - "#00cc44"
+  - "#00ff88"  # high activity
