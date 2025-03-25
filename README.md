@@ -11,5 +11,5 @@
 ###🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/JeffJ-L/JeffJ-L/output/github-contribution-grid-snake.svg?palette=github-dark)
+![GitHub Snake Dark](https://raw.githubusercontent.com/JeffJ-L/JeffJ-L/output/github-contribution-grid-snake.svg)
 
