@@ -1,9 +1,8 @@
 theme: dark
-color_snake: "#00FF88"       # glowing green snake
+color_snake: "#39FF14"  # bright neon green
 color_dots:
-  - "#222222"                # inactive grid background (dark)
-  - "#333333"
-  - "#44aa44"
-  - "#66cc66"
-  - "#88ff88"                # most active contributions
-
+  - "#0a0a0a"
+  - "#1a1a1a"
+  - "#262626"
+  - "#00b140"
+  - "#39ff14"
