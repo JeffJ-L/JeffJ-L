@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: JeffJ-L
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           config_file: .github/snake-config.yml
             
       - name: Push to GitHub
