@@ -1,1 +1,9 @@
+theme: dark
+color_snake: "#00FF88"       # glowing green snake
+color_dots:
+  - "#222222"                # inactive grid background (dark)
+  - "#333333"
+  - "#44aa44"
+  - "#66cc66"
+  - "#88ff88"                # most active contributions
 
