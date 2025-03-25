@@ -6,7 +6,7 @@
 - 📫 How to reach me: jeffjeanlouis@gmail.com
 
 
-### Watch the Snake eat my contributions 🐍
+###🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/JeffJ-L/JeffJ-L/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
